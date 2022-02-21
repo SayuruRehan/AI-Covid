@@ -36,5 +36,8 @@ Getting hold of better data would be easier if the formats were standardized. Mo
 The models are so similar that they almost all use the same techniques but with small differences, with the same inputs and they all make the same mistakes. If all these people developing new models instead tested models that were already available, maybe we’d have something that could really help end the pandemic by now…
 
 
-Thanks for reading! Check out my article on medium!
-https://medium.com/@sayururehan/a-i-and-covid-6443ff582d58
+Thanks for reading! Check out my article on medium! <br>
+https://medium.com/@sayururehan/a-i-and-covid-6443ff582d58 <br>
+https://www.linkedin.com/feed/update/urn:li:activity:6901350562160373760/
+
+
